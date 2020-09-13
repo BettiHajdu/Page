@@ -33,3 +33,10 @@ h2 {
 	background-color: #C1BDB3;
 	color: #7F7979;
 }
+
+img {
+    float:right;
+    margin-left:15px;
+    position: relative;
+    bottom: 180px;
+}
